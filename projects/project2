@@ -3,12 +3,10 @@ layout: project
 type: project
 image: 
 title: Summer camp instructor
-permalink: projects/micromouse
+permalink: projects/summer camp
 # All dates must be YYYY-MM-DD format!
 date: 
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  
+summary: Helped out at a summer camp. Helped set up and cleaning up. Was in charge of a group of 10 kids througout the week.
 ---
