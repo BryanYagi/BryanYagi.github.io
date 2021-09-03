@@ -1,0 +1,14 @@
+---
+layout: project
+type: project
+image: 
+title: micromachines
+permalink:
+# All dates must be YYYY-MM-DD format!
+date:
+labels:
+  - Robotics
+  - Arduino
+  - C++
+summary: 
+---
