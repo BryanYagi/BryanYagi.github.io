@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/graph.png
 title: Graphene Battery
 permalink: projects/Graphene Battery
 # All dates must be YYYY-MM-DD format!
