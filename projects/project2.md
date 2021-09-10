@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/2.jpg
 title: Summer camp instructor
 permalink: projects/summer camp
 # All dates must be YYYY-MM-DD format!
