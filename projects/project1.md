@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/robot.png
 title: microrobot
 permalink: projects/microrobot
 # All dates must be YYYY-MM-DD format!
