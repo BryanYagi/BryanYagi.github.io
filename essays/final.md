@@ -8,6 +8,8 @@ labels:
   - Software Engineering
 ---
 
+<img class="ui tiny left circular floated image" src="../images/pic.jpg">
+
 ##
 This class was a bit of a surprise for me, I was actually pretty convinced at the begining of the semester that I probably wouldn't like it. There was a lot of work involved, expecially at the begining of this semester. The constant things due along with the in class WODS made it extremely stressful. I dropped a class to allow me extra time to study because I felt I was at a disadvantage being a non-ICS major. This was a good thing because I really needed the time, this was my first javascript class and I spent the first few weeks being completely lost. But working through it eventually became sort of enjoyable, it was NOT fun, or something I looked forward too, but there is a sense of pride you get from acomplishing difficult tasks. Starting each week with a "WTF am I looking at?" and ending it with a "I got this". With that slowly becoming the norm, it proved that, everything new is going to suck at first, but with enough effort, it can become managable. The main idea being effort. I've always liked the idea that the effort you put into a project should always payoff. The greater the effort, the bigger the payoff. How well you do will lie specificly on how much effort you invest. This type of class is unfortunatly rare. For example, out of all my classes this semester, this was the only class that I felt like respected the ammount of time I invested in it. As such, while this class was not fun, this was the only class I actually enjoyed this semester. Along with being enjoyable, this class also helped to show me what kind of things are possible with enough coding experience. The final project was an amazing experience for me.
 
