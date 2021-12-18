@@ -31,4 +31,4 @@ This was another interesting topic that we coveered in this class. Agile project
 It seems the topics that I found interesting in a software engineering course doesn't relate to coding directly, but are tools by which to make coding easier. Function programming offers a better way to write your code to organize it better. This goes the same for coding standards. Agile project managment offers a better way to plan and execute your goals, with or without a group. These tools are useful regardless of which coding language you are using and are all things I plan on using in the future to make coding a bit more manageable.
 
 PS I love Calvin and Hobbes and I feel that there always is a Calvin and Hobbes strip that is relevant to anything life throws at you.
-<img class="ui small left floated image" src="../images/pic2.jpeg">
+<img class="ui small left floated image" src="../images/pic2.jpg">
