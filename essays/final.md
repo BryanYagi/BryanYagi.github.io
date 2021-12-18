@@ -32,4 +32,4 @@ It seems the topics that I found interesting in a software engineering course do
 
 PS I love Calvin and Hobbes and I feel that there always is a Calvin and Hobbes strip that is relevant to anything life throws at you.
 
-<img class="ui tiny left floated rounded image" src="../images/pic2.png">
+<img class="ui tiny left floated rounded image" src="../images/pic2.PNG">
